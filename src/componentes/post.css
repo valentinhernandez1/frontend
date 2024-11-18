@@ -1,0 +1,19 @@
+.post-container {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #fff;
+  }
+  
+  .likes-dislikes {
+    margin: 10px 0;
+  }
+  
+  .comments-section {
+    margin-top: 10px;
+  }
+  
+  .comment {
+    margin: 5px 0;
+  }

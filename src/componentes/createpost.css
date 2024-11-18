@@ -1,0 +1,18 @@
+.create-post-container {
+    margin-right: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    margin-top: 20px;
+    margin-left: 50px;
+  }
+  
+  .btn-primary {
+    margin-bottom: 10px; 
+  }
+  
+  .form-control {
+    width: 100%;
+    margin-bottom: 10px;
+  }
